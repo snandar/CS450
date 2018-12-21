@@ -9,8 +9,6 @@ $ gcc -o myar myar.c
 Purpose : to recreate the some ar command on linux. More information [here](https://linux.die.net/man/1/ar) .
 #
 ## Usage
-
-
 ```sh
 ./myar [name] [option] [file]
 ```
